@@ -21,10 +21,9 @@
 <h3><p align="center">【 A B O U T  M E 】</p></h3>
 
 * 🔭 **Currently working on:** Projects in C, C++ and Python
-* 👯 **Looking to collaborate:** Scalable web projects & modern front‑end practices
-* 🤝 **Open to teaming up:** Clean, maintainable codebases & real‑world problem‑solving
-* 💬 **Ask me about:** C, C++, Python, HTML or CSS – from basics to implementation
-* ⚡ **Fun fact:** Transforming complex ideas into elegant code is what motivates me!
+* 👯 **Collaboration:** Scalable web projects & modern AI practices
+* 🤝 **Focus:** Clean, maintainable codebases & real‑world problem‑solving
+* ⚡ **Goal:** Transforming complex ideas into elegant code!
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 </div>
@@ -32,55 +31,70 @@
 <br />
 
 <div align="center">
-  <h3>【 S K I L L S 】</h3>
+  <h3 align="center">【 S K I L L S 】</h3>
   <br />
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,c,github,visualstudio,=13" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,c,github,anaconda,tensorflow,sklearn,opencv,visualstudio,sublime&perline=13" />
   <br />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 </div>
 
 <br />
 
 <div align="center">
+  <h3 align="center">【 C O N T R I B U T I O N  S N A K E  G R I D 】</h3>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marooflone74/marooflone74/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marooflone74/marooflone74/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marooflone74/marooflone74/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br />
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-  <h3>【 S T A T S 】</h3>
-  <p>
+</div>
+
+<br />
+
+<div align="center">
+  <h3 align="center">【 R E P O _ A C T I V I T Y 】</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=marooflone74&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000b1e&title_color=00d2ff&text_color=ffffff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marooflone74&layout=compact&theme=tokyonight&hide_border=true&bg_color=000b1e&title_color=00d2ff&text_color=ffffff" width="49%" />
+  <br />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</div>
+
+<br />
+
+<div align="center">
+  <h3 align="center">【 G R A P H 】</h3>
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marooflone74&theme=tokyonight" width="100%" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marooflone74&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marooflone74&theme=tokyonight" width="49%" />
+  <br />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</div>
+
+<br />
+
+<div align="center">
+  <h3 align="center">【 A C H I E V E M E N T S 】</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=marooflone74&theme=tokyonight&no-bg=true&column=8" width="100%"/>
+  <br />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</div>
+
+<br />
+
+<div align="center">
+  <h3 align="center">【 S T A T S 】</h3>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marooflone74&theme=tokyonight&hide_border=false&border=00d2ff&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakNum=00d2ff" width="85%" />
+  </p>
+  <p align="center">
     <img src="https://img.shields.io/github/followers/marooflone74?label=FOLLOWERS&style=for-the-badge&color=00d2ff&labelColor=000b1e" />
-    <img src="https://komarev.com/ghpvc/?username=marooflone74&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS" />
+    <img src="https://komarev.com/ghpvc/?username=marooflone74&color=00d2ff&style=for-the-badge&label=VIEWS" />
   </p>
-
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marooflone74&theme=tokyonight" height="150"/></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marooflone74&theme=tokyonight" height="150"/></td>
-    </tr>
-  </table>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marooflone74&theme=tokyonight&hide_border=true" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=marooflone74&theme=tokyonight&no-bg=true&v=1" width="100%"/>
-  </p>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-</div>
-
-<br />
-
-<div align="center">
-  <h3>【 C O N N E C T  W I T H  M E 】</h3>
-  <a href="https://www.linkedin.com/in/maroof-ahmed-lone-8b443538b" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:marooflone74@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/maroofyouknow?igsh=M2Y5dnNhbjVxb2N6" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
 </div>
 
 <br />
