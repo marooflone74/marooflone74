@@ -1,99 +1,92 @@
-<!-- Top Profile Picture -->
 <p align="center">
-  <!-- 👉 change the link to your actual image path in your repo -->
   <img src="https://github.com/marooflone74/marooflone74/blob/main/profile.png?raw=true" 
        width="180" 
-       alt="MAROOF AHMED LONE"/>
+       alt="MAROOF AHMED LONE"
+       style="border-radius: 50%; border: 3px solid #00599C;"/>
 </p>
 
-<!-- Waving Capsule -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=150&section=header&text=MAROOF%20AHMED%20LONE&fontSize=60&animation=fadeIn" />
 </div>
 
-<!-- Name & Role -->
 <div align="center">
-  <h2>🤖 C++ & Python Developer | AI Enthusiast</h2>
+  <h2 style="color: #00d2ff;">🤖 C++ & Python Developer | AI Enthusiast</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding GIF"/>
 </div>
 
-<!-- Intro GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
-       width="300" 
-       alt="Coding GIF"/>
-</p>
+<br />
 
----
+<div align="left">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+<h3><p align="center">【 A B O U T  M E 】</p></h3>
 
-### 🔹 About Me
-🔭 Currently working on projects  in C, C++ and Python
-👯 Looking to collaborate on scalable web projects using HTML, CSS and modern front‑end practices
-🤝 Open to teaming up on clean, maintainable codebases and real‑world problem‑solving projects
-💬 Ask me about C, C++, Python, HTML or CSS – from basics to practical implementation
-⚡ Fun fact: Transforming complex ideas into elegant, production‑ready code is what motivates me**I love turning ideas into working code**
+* 🔭 **Currently working on:** Projects in C, C++ and Python
+* 👯 **Looking to collaborate:** Scalable web projects & modern front‑end practices
+* 🤝 **Open to teaming up:** Clean, maintainable codebases & real‑world problem‑solving
+* 💬 **Ask me about:** C, C++, Python, HTML or CSS – from basics to implementation
+* ⚡ **Fun fact:** Transforming complex ideas into elegant code is what motivates me!
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</div>
 
-### 🌐 Connect with Me
+<br />
+
 <div align="center">
-  <!-- 👉 put your real links here -->
-  <a href="https://facebook.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
+  <h3>【 S K I L L S 】</h3>
+  <br />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,c,github,visualstudio,=13" />
+  <br />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+  <h3>【 S T A T S 】</h3>
+  <p>
+    <img src="https://img.shields.io/github/followers/marooflone74?label=FOLLOWERS&style=for-the-badge&color=00d2ff&labelColor=000b1e" />
+    <img src="https://komarev.com/ghpvc/?username=marooflone74&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  </p>
+
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marooflone74&theme=tokyonight" height="150"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marooflone74&theme=tokyonight" height="150"/></td>
+    </tr>
+  </table>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marooflone74&theme=tokyonight&hide_border=true" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=marooflone74&theme=tokyonight&no-bg=true&v=1" width="100%"/>
+  </p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</div>
+
+<br />
+
+<div align="center">
+  <h3>【 C O N N E C T  W I T H  M E 】</h3>
   <a href="https://www.linkedin.com/in/maroof-ahmed-lone-8b443538b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/maroofyouknow?igsh=M2Y5dnNhbjVxb2N6" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:marooflone74@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/maroofyouknow?igsh=M2Y5dnNhbjVxb2N6" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
 
----
+<br />
 
-### 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <!-- 👉 change username=ALIRAZA5101 (in ALL places) to your GitHub username exactly -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marooflone74&theme=tokyonight" height="140"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marooflone74&theme=tokyonight" height="140"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marooflone74&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marooflone74&theme=tokyonight&no-bg=true&v=1" alt="Trophies"/>
-</p>
-
----
-
-### 💬 Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20want%20to%20make%20a%20machine%20that%20will%20be%20proud%20of%20us.&author=Danny%20Hillis"/>
-</div>
-
----
-
-### 👁 Profile Views
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=marooflone74&color=blue&style=for-the-badge" alt="Profile Views"/>
-</div>
-
-<!-- Footer Capsule -->
-<div align="center">
+  <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer"/>
 </div>
