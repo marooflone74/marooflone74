@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/marooflone74/marooflone74/blob/main/profile.png?raw=true" 
        width="180" 
-       alt="MAROOF AHMED LONE"
        style="border-radius: 50%; border: 3px solid #00599C;"/>
 </p>
 
@@ -11,7 +10,7 @@
 
 <div align="center">
   <h2 style="color: #00d2ff;">🤖 C++ & Python Developer | AI Enthusiast</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" />
 </div>
 
 <br />
@@ -20,10 +19,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 <h3><p align="center">【 A B O U T  M E 】</p></h3>
 
-* 🔭 **Currently working on:** Projects in C, C++ and Python
-* 👯 **Collaboration:** Scalable web projects & modern AI practices
-* 🤝 **Focus:** Clean, maintainable codebases & real‑world problem‑solving
-* ⚡ **Goal:** Transforming complex ideas into elegant code!
+* 🔭 **Status:** Working on high-performance C, C++ and Python projects.
+* 👯 **Collaboration:** Open for AI-driven scalable web solutions.
+* 🤝 **Commitment:** Clean code and efficient problem-solving.
+* ⚡ **Fun Fact:** I code ideas into reality with elegant logic.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 </div>
@@ -45,7 +44,6 @@
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marooflone74/marooflone74/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marooflone74/marooflone74/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marooflone74/marooflone74/output/github-contribution-grid-snake.svg">
   </picture>
   <br />
@@ -78,15 +76,6 @@
 <br />
 
 <div align="center">
-  <h3 align="center">【 A C H I E V E M E N T S 】</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=marooflone74&theme=tokyonight&no-bg=true&column=8" width="100%"/>
-  <br />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-</div>
-
-<br />
-
-<div align="center">
   <h3 align="center">【 S T A T S 】</h3>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=marooflone74&theme=tokyonight&hide_border=false&border=00d2ff&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakNum=00d2ff" width="85%" />
@@ -100,7 +89,7 @@
 <br />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20want%20to%20make%20a%20machine%20that%20will%20be%20proud%20of%20us.&author=Danny%20Hillis"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20want%20to%20make%20a%20machine%20that%20will%20be%20proud%20of%20us."/>
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer"/>
 </div>
