@@ -30,7 +30,7 @@ jobs:
           
       # Is animation ko 'output' branch mein push karna
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/github-pages-deploy-action@v4
+        uses: peaceiris/actions-gh-pages@v3
         with:
           folder: dist
           branch: output # Ye animation is branch mein save hogi
