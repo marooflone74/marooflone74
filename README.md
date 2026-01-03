@@ -26,12 +26,11 @@
 ---
 
 ### 🔹 About Me
-- 🔭 Currently working on **AI & automation projects**
-- 👯 Looking to collaborate on **Python scripts, ML models & AI tools**
-- 🤝 Open to guidance in **Machine Learning & Deep Learning**
-- 🌱 Learning **Data Structures in C++ & Practical AI**
-- 💬 Ask me about **Python, C++, or AI basics**
-- ⚡ Fun fact: **I love turning ideas into working code**
+🔭 Currently working on projects  in C, C++ and Python
+👯 Looking to collaborate on scalable web projects using HTML, CSS and modern front‑end practices
+🤝 Open to teaming up on clean, maintainable codebases and real‑world problem‑solving projects
+💬 Ask me about C, C++, Python, HTML or CSS – from basics to practical implementation
+⚡ Fun fact: Transforming complex ideas into elegant, production‑ready code is what motivates me**I love turning ideas into working code**
 
 ---
 
