@@ -30,9 +30,9 @@
 <br />
 
 <div align="center">
-  <h3 align="center">【 S K I L L S 】</h3>
+  <h3 align="center">【 S K I L L S 】</h
   <br />
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,c,github,anaconda,tensorflow,sklearn,opencv,visualstudio,sublime&perline=13" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,c,github,opencv,visualstudio=13" />
   <br />
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 </div>
