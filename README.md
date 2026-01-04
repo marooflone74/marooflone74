@@ -1,7 +1,8 @@
+
+
 <p align="center">
-  <img src="https://github.com/marooflone74/marooflone74/blob/main/profile.png?raw=true" 
-       width="180" 
-       style="border-radius: 50%; border: 3px solid #00599C;"/>
+ <img width="1536" height="1024" alt="profile" src="https://github.com/user-attachments/assets/1e334068-3c84-4ca7-9030-fbd4af4267a8" /> 
+      
 </p>
 
 <div align="center">
