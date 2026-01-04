@@ -94,3 +94,16 @@
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer"/>
 </div>
+ 🌐 Connect with Me:
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/maroof-ahmed-lone-8b443538b " target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/maroof.learns.ai?igsh=ejdmb2E3MGJ1Mnhy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="marooflone74@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
