@@ -8,9 +8,7 @@
       
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=150&section=header&text=MAROOF%20AHMED%20LONE&fontSize=60&animation=fadeIn" />
-</div>
+
 
 <div align="center">
   <h2 style="color: #00d2ff;">🤖 C++ & Python Developer | AI Enthusiast</h2>
