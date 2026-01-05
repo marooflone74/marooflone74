@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=150&section=header&text=MAROOF%20AHMED%20LONE&fontSize=60&animation=fadeIn" />
+</div>
 
 
 <p align="center">
