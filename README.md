@@ -12,9 +12,21 @@
 <div align="center">
   <h2 style="color: #00d2ff;">🤖 C++ & Python Developer | AI Enthusiast</h2>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" />
+<div align="center">
+  <h3 style="margin-bottom: 0px;">Hi 👋, Myself</h3>
+  
+  <img src="https://capsule-render.vercel.app/api?type=transparent&font=roboto&text=Maroof%20Lone&fontColor=F7F7F7&fontSize=70&height=85" alt="Ali Raza" />
+</div>
+
+<div align='center'>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&color=F7F7F7&center=true&vCenter=true&width=500&lines=I'm+an+AI+Student;I'm+a+Python+Developer;I'm+a+Content+Creator;I'll+be+a+Prompt+Engineer;From+Muzaffarabad+AJK+Pakistan;Working+on+UNI+mini+project" alt="Typing SVG" />
+</div>
+<br>
 </div>
 
 <br />
+
+
 
 <div align="left">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
