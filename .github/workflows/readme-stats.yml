@@ -1,0 +1,25 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once daily
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Update README
+        run: |
+          echo "README auto-updated at $(date)" >> update.log
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add .
+          git commit -m "Automated README update" || echo "No changes"
+          git push
