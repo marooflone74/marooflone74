@@ -1,7 +1,7 @@
 
 
 <p align="center">
- <img width="1536" height="1024" alt="profile" src="https://github.com/user-attachments/assets/1e334068-3c84-4ca7-9030-fbd4af4267a8" /> 
+ <img width="500" height="700" alt="profile" src="https://github.com/user-attachments/assets/1e334068-3c84-4ca7-9030-fbd4af4267a8" /> 
       
 </p>
 
@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 <h3><p align="center">【 A B O U T  M E 】</p></h3>
 
-* 🔭 **Status:** Working on high-performance C, C++ and Python projects.
+* 🔭 **Status:** Working on high-performance C, C++ and Python projects.<br>
 * 👯 **Collaboration:** Open for AI-driven scalable web solutions.
 * 🤝 **Commitment:** Clean code and efficient problem-solving.
 * ⚡ **Fun Fact:** I code ideas into reality with elegant logic.
@@ -31,7 +31,10 @@
 <br />
 
 <div align="center">
-  <h3 align="center">【 S K I L L S 】</h
+   <h3<p align="center">【 S K I L L S 】</p> </h3>
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+    <br>
+
   <br />
   <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,c,github,opencv,visualstudio=13" />
   <br />
@@ -90,7 +93,7 @@
 <br />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20want%20to%20make%20a%20machine%20that%20will%20be%20proud%20of%20us."/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Push%20Yourselfself%20because%20No-one%20else%20is%20going%20to%20do%20it%20for%20you."/>
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer"/>
 </div>
@@ -103,7 +106,7 @@
   <a href="https://www.instagram.com/maroof.learns.ai?igsh=ejdmb2E3MGJ1Mnhy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="marooflone74@gmail.com">
+  <a href="mailto:marooflone74@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
