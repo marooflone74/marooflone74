@@ -19,7 +19,7 @@
 </div>
 
 <div align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&color=F7F7F7&center=true&vCenter=true&width=500&lines=I'm+an+AI+Student;I'm+a+Python+Developer;I'm+a+Content+Creator;I'll+be+a+Prompt+Engineer;From+Muzaffarabad+AJK+Pakistan;Working+on+UNI+mini+project" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&color=F7F7F7&center=true&vCenter=true&width=500&lines=I'm+an+AI+Student;I'm+a+future+AI+reasearcher;I'm+a+Content+Creator;I'll+be+a+Prompt+Engineer;From+Muzaffarabad+AJK+Pakistan;Working+on+UNI+mini+project" alt="Typing SVG" />
 </div>
 <br>
 </div>
