@@ -152,10 +152,14 @@ const MaroofLone = {
 
 ## 🛠️ My Tech Arsenal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=750&lines=Turning+Ideas+Into+Code;Writing+Code+That+Lasts;Improving+One+Project+At+A+Time
-
-
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Problem+Solving+Through+Code;Building+Systems+That+Make+Sense;Learning+By+Writing+Real+Programs"
+    alt="Tech Arsenal Typing Animation"
+  />
 </div>
+
+
 
 <br>
 
@@ -166,29 +170,35 @@ const MaroofLone = {
   <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css,git,github,vscode&theme=dark&perline=8" />
 </p>
 
-<!-- Advanced Skill Grid -->
+<!-- Skill Grid -->
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"><br>
-<b>JavaScript</b><br>
-<sub>Expert</sub><br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-</td>
-<td align="center" width="20%">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"><br>
 <b>Python</b><br>
-<sub>Advanced</sub><br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<sub>Intermediate</sub><br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 </td>
+
 <td align="center" width="20%">
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65"><br>
 <b>C++</b><br>
-<sub>Intermediate</sub><br>
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<sub>Intermediate</sub><br><br>
+<br>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+</td>
+
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/c-icon.svg" width="65"><br>
+<b>C</b><br>
+<sub>Intermediate</sub><br><br>
+<br>
+  
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
 </td>
 </tr>
 </table>
+
 
    🎯 **Specialized In**
 
@@ -222,10 +232,15 @@ const MaroofLone = {
 
 ## 📊 GitHub Statistics & Analytics
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=3A86FF&center=true&vCenter=true&width=650&lines=Progress+Over+Time;Built+Through+Consistency;Measured+Not+Claimed
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2800&pause=1200&color=FB5607&center=true&vCenter=true&width=700&lines=Learning+Through+Practice;Building+Skills+Step+by+Step;Growth+Backed+By+Work"
+alt="GitHub Stats Typing Animation"/>
 </div>
 
+
 <br>
+
 
 <div align="center">
 
@@ -255,9 +270,14 @@ const MaroofLone = {
 <img src="https://komarev.com/ghpvc/?username=marooflone74&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
+<!-- fro trophiws -->
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=marooflone74&theme=radical&no-frame=false&row=1&column=7&title=Commits,Repositories,Stars,PullRequest,Followers,Issues,MultiLanguage" 
+    alt="Achievement Trophies" 
+  />
+</div>
 
-<!-- Achievement Trophies -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=marooflone74&theme=radical&no-frame=true&no-bg=false&row=1&column=7&title=Commits,Repositories,Stars,PullRequest,Followers,Issues,MultiLanguage" alt="Trophies"/>
 
 </div>
 
@@ -276,13 +296,26 @@ const MaroofLone = {
 
 ---
 
+<!-- Featured Projects & Repositories Section -->
 <div align="center">
 
-## 🚀 Featured Projects & Repositories
+<!-- Header -->
+<h2>🚀 Featured Projects & Repositories</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=06FFA5&center=true&vCenter=true&width=700&lines=My+Best+Work+💎;Built+With+Passion+🔥;Check+Them+Out!+⭐" alt="Projects Header" />
+<!-- Animated Typing SVG -->
+<img 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2800&pause=1200&color=3A86FF&center=true&vCenter=true&width=700&lines=Showcasing+My+Top+Projects;Crafted+With+Code+%26+Precision;Explore+The+Repos+%F0%9F%94%8D" 
+  alt="Projects Header"/>
+
+<!-- Optional Description -->
+<p align="center">Here are some of my best work — built with focus, discipline, and modern tech stacks. Check them out on my repositories below.</p>
 
 </div>
+
+
+
+</div>
+
 
 <br>
 
@@ -343,9 +376,8 @@ const MaroofLone = {
 <td width="50%" valign="top">
 <br>🧠 Principles I Follow
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="450">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="450"><br>
 
-<br>
 🎯 Focus on solving the problem, not showing off code<br>
 
 🏗️ Plan carefully, write code that works first time<br>
@@ -373,13 +405,32 @@ const MaroofLone = {
 
 ---
 
+<!-- Contribution Activity Section -->
 <div align="center">
 
-## 📈 Contribution Activity
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FF9E00&center=true&vCenter=true&width=650&lines=Building+Every+Day+🏗️;Green+Squares+Matter+🟩;Consistency+is+Key+🔑" alt="Activity Header" />
+<h2>📈 Contribution Activity</h2>
+
+<!-- Animated Typing Header -->
+<img 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2800&pause=1200&color=FF9E00&center=true&vCenter=true&width=700&lines=Daily+Coding+Practice;Consistency+Is+Key" 
+  alt="Contribution Activity"
+/>
+
+<br>
+
+<!-- Real Contribution Graph -->
+<img src="https://activity-graph.herokuapp.com/graph?username=marooflone74&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 
 </div>
+
+
+<!-- Optional Description -->
+<p align="center">Tracking my contribution activity to improve daily and grow consistently in coding and project work.</p>
+
+</div>
+
 
 <br>
 
@@ -480,8 +531,9 @@ const MaroofLone = {
 <tr>
 <td align="center" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="120">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="120"><br>
 
+### **🚀 Seeking Challenges & Opportunities**<br>
 <br>
 💡 Seeking Opportunities To Build & Impact:<br>
 
@@ -504,7 +556,7 @@ const MaroofLone = {
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="120">
 
 <br>
-🎯 What I Offer:<br>
+### **🎯 What I Offer**
 
 💻 Python, C, and C++ programming expertise<br>
 
@@ -572,6 +624,8 @@ const MaroofLone = {
 <br><br>
 
 <!-- Contact Information Grid -->
+<div align="center">
+
 <table>
 <tr>
 <td align="center">
@@ -580,14 +634,14 @@ const MaroofLone = {
 <sub>marooflone74@gmail.com</sub>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45" /><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="45" /><br>
 <b>GitHub</b><br>
-<sub>marooflone74</sub>
+<sub><a href="https://github.com/marooflone74">marooflone74</a></sub>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47195a93-79a4-4ca0-a13c-ec8b4a2e9d69.gif" width="45" /><br>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45" /><br>
 <b>LinkedIn</b><br>
-<sub>Connect Now</sub>
+<sub><a href="https://www.linkedin.com/in/marooflone74/">Connect Now</a></sub>
 </td>
 <td align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35dd0b.gif" width="45" /><br>
@@ -596,14 +650,32 @@ const MaroofLone = {
 </td>
 </tr>
 </table>
-
+<!--"https://user-images.githubusercontent.com/74038190/235294015-47195a93-79a4-4ca0-a13c-ec8b4a2e9d69.gif" width="45"-->
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-
 <div align="center">
 
 <!-- Epic Closing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=26&duration=3500&pause=1500&color=F75C7E&center=true&vCenter=true&multiline=true&width=950&height=120&lines=Thanks+for+visiting+my+profile!+🌟;Let's+build+the+future+together+🚀;One+commit+at+a+time+💻;Keep+
+<img 
+src="https://readme-typing-svg.demolab.com?<div align="center">
+
+<div align="center">
+
+<div align="center">
+
+<!-- Professional & Attractive Closing Banner -->
+<img 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1500&color=FF4D6D&center=true&vCenter=true&multiline=true&width=950&height=120&lines=Thank+you+for+visiting+my+profile!+%F0%9F%8C%9F;Let%27s+innovate+and+build+the+future+%F0%9F%9A%80;One+commit+at+a+time+%F0%9F%92%BB;Keep+coding+and+growing+every+day+%F0%9F%92%AA" 
+  alt="Closing Banner"
+/>
+
+</div>
+
+
+
+</div>
+
