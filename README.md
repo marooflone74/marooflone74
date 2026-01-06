@@ -5,15 +5,15 @@
 
 <!-- Glowing Tech Name Animation -->
 <h1 align="center">
-<div align="center">
-  <img width="450" src="https://assets9.lottiefiles.com/packages/lf20_tutvdkg0.json" />
-</div>
+<img width="1536" height="1024" alt="profile" src="https://github.com/user-attachments/assets/375dc793-da4b-47b1-8490-feed9de1fca1" />
+
 
 </h1>
 
 <!-- Dynamic Multi-line Professional Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=600&size=24&duration=3500&pause=1200&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=160&lines=💻+Crafting+Code+That+Matters;🎨+Designer+%7C+Developer+%7C+Dreamer;🌟+Turning+Ideas+Into+Reality;🚀+Innovation+Through+Technology;🔥+Building+The+Future%2C+One+Line+at+a+Time" alt="Dynamic Intro" />
+<div align='center'>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&color=F7F7F7&center=true&vCenter=true&width=500&lines=I'm+an+AI+Student;I'm+a+Python+Developer;I'm+a+Content+Creator;I'm+a+Prompt+Engineer;From+Muzaffarabad+AJK+Pakistan;Working+on+Deep+Learning" alt="Typing SVG" />
+</div>
 </p>
 
 <!-- Electric Divider -->
@@ -33,9 +33,13 @@
 ---
 
 <div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=2500&pause=700&color=00E676&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+My+Profile;Thanks+for+Stopping+By;Let%27s+create+together"
+    alt="Welcome Banner"
+  />
+</div>
 
-<!-- Epic Welcome Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=2500&pause=700&color=FF006E&center=true&vCenter=true&width=700&height=100&lines=👾+Welcome+to+My+Universe!;🌈+Thanks+For+Stopping+By!;✨+Let's+Create+Magic+Together!" alt="Welcome Banner" />
+
 
 <br>
 
