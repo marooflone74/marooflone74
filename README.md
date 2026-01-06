@@ -293,23 +293,7 @@ alt="GitHub Stats Typing Animation"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-<div align="center">
 
-<!-- Snake Contribution Animation -->
-<table width="100%">
-<tr>
-  <td width="60%" valign="top">
-    <!-- Your existing contribution graph -->
-    <img src="https://activity-graph.herokuapp.com/graph?username=marooflone74&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
-  </td>
-  <td width="40%" valign="top">
-    <!-- Snake animation on the right -->
-    <img src="https://raw.githubusercontent.com/marooflone74/marooflone74/output/github-snake.svg" alt="Snake Contribution Animation" width="100%"/>
-  </td>
-</tr>
-</table>
-
-</div>
 
 <div align="center">
 
