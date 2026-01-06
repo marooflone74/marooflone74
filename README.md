@@ -117,7 +117,7 @@ const MaroofLone = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce054cd8f.gif" width="100%">
 <img alt="code.gif" data-hpc="true" class="Box-sc-62in7e-0 eLrlvS" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
-⚡ How I Approach My Work<br>
+<br>⚡ How I Approach My Work<br>
 
 🧠 I break problems down until they stop being scary<br>
 
@@ -320,40 +320,36 @@ const MaroofLone = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="450">
 
-**Creating Impact Through Code:**
+<br>💻 Solve problems with Python, C, and C++<br>
 
-💻 **Scalable applications** for real-world problems
+🎨 Design clean, functional HTML/CSS interfaces<br>
 
-🎨 **Beautiful interfaces** that users love
+🔧 Write reliable code that just works<br>
 
-🔧 **Robust backends** that never fail
+📱 Adapt projects across platforms when needed<br>
 
-📱 **Cross-platform solutions** for everyone
+⚡ Optimize for speed, clarity, and maintainability<br>
 
-⚡ **Performance-optimized** systems
-
-🌐 **Open-source contributions** to give back
+🌐 Share knowledge through GitHub and open-source<br>
 
 </td>
 <td width="50%" valign="top">
-
-### 💪 **My Work Ethic**
+<br>🧠 Principles I Follow
 
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="450">
 
-**How I Approach Every Project:**
+<br>
+🎯 Focus on solving the problem, not showing off code<br>
 
-🎯 **User-first thinking** always
+🏗️ Plan carefully, write code that works first time<br>
 
-🏗️ **Plan thoroughly**, execute flawlessly
+📐 Precision matters—bugs are a discipline issue<br>
 
-📐 **Attention to detail** matters
+🔄 Test, refine, and iterate until it’s solid<br>
 
-🔄 **Iterate and improve** constantly
+🤝 Collaborate where it adds value, not just for meetings<br>
 
-🤝 **Collaborate effectively** with teams
-
-⚡ **Ship fast**, ship quality
+⚡ Deliver consistently, not just quickly, 
 
 </td>
 </tr>
@@ -479,28 +475,42 @@ const MaroofLone = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="120">
 
-### **💡 Looking For:**
+<br>
+💡 Seeking Opportunities To Build & Impact:<br>
 
-🚀 Exciting project collaborations  
-💼 Freelance opportunities  
-🌟 Open source contributions  
-🎓 Knowledge sharing & mentorship  
-🤝 Tech community connections  
-💬 Interesting conversations about tech
+🚀 Challenging projects that push my skills<br>
+
+💼 Freelance work with real-world impact<br>
+
+🌟 Meaningful open-source contributions<br>
+
+🎓 Knowledge exchange & mentorship that elevates others<br>
+
+🤝 Collaboration with talented developers<br>
+
+💬 Deep, technical discussions that drive innovation<br>
+
 
 </td>
 <td align="center" width="50%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="120">
 
-### **🎯 What I Offer:**
+<br>
+🎯 What I Offer:<br>
 
-💻 Full-stack development expertise  
-🎨 UI/UX design sensibility  
-⚡ Quick turnaround time  
-📊 Data-driven solutions  
-🔧 Problem-solving mindset  
-✨ Passion for excellence
+💻 Python, C, and C++ programming expertise<br>
+
+🌐 Web development with HTML & CSS<br>
+
+📂 Git & GitHub workflow mastery<br>
+
+🧠 Logical problem solving & algorithmic thinking<br>
+
+📄 MS Word & documentation proficiency<br>
+
+✨ Continuous learning & disciplined growth<br>
+
 
 </td>
 </tr>
@@ -540,24 +550,16 @@ const MaroofLone = {
 <div align="center">
 
 <!-- Social Media Badges -->
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:marooflone74@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/maroof-ahmed-lone-8b443538b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/YOUR-TWITTER-HANDLE">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/YOUR-INSTAGRAM-USERNAME">
+<a href="https://www.instagram.com/maroof.learns.ai?igsh=ejdmb2E3MGJ1Mnhy">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
-<a href="https://YOUR-PORTFOLIO-WEBSITE.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
 <br><br>
@@ -568,12 +570,12 @@ const MaroofLone = {
 <td align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45" /><br>
 <b>Email</b><br>
-<sub>YOUR-EMAIL@gmail.com</sub>
+<sub>marooflone74@gmail.com</sub>
 </td>
 <td align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45" /><br>
 <b>GitHub</b><br>
-<sub>@YOUR-USERNAME-HERE</sub>
+<sub>marooflone74</sub>
 </td>
 <td align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47195a93-79a4-4ca0-a13c-ec8b4a2e9d69.gif" width="45" /><br>
@@ -583,7 +585,7 @@ const MaroofLone = {
 <td align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35dd0b.gif" width="45" /><br>
 <b>Location</b><br>
-<sub>Mansehra, Pakistan</sub>
+<sub>Azad Kashmir, Muzaffarabad</sub>
 </td>
 </tr>
 </table>
