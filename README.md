@@ -1,7 +1,16 @@
 <div align="center">
 
-<!-- Dynamic Neon Header with Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=MAROOF%20LONE&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Developer%20|%20Tech%20Innovator%20|%20Problem%20Solver&descAlignY=55&descSize=20"/>
+
+<!-- Dynamic Neon Header with Waving Animation -->
+<img width="100%" 
+     src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1C1C1C,100:000000&height=300&section=header&text=MAROOF%20LONE&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=FFD700&desc=%20AI%20STUDENT%20|%20AI%20ENTHUSIAST%20|%20AI%20REASEARCHER%20|%20C++%20Coder&descAlignY=55&descSize=20" 
+     alt="Neon Yellow Banner"/>
+
+</div>
+ 
+   
+
+
 
 <!-- Glowing Tech Name Animation -->
 <h1 align="center">
@@ -284,6 +293,23 @@ alt="GitHub Stats Typing Animation"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
+<div align="center">
+
+<!-- Snake Contribution Animation -->
+<table width="100%">
+<tr>
+  <td width="60%" valign="top">
+    <!-- Your existing contribution graph -->
+    <img src="https://activity-graph.herokuapp.com/graph?username=marooflone74&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
+  </td>
+  <td width="40%" valign="top">
+    <!-- Snake animation on the right -->
+    <img src="https://raw.githubusercontent.com/marooflone74/marooflone74/output/github-snake.svg" alt="Snake Contribution Animation" width="100%"/>
+  </td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
