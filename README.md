@@ -5,7 +5,10 @@
 
 <!-- Glowing Tech Name Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=50&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&repeat=false&width=600&height=80&lines=⚡+MAROOF+LONE+⚡" alt="Name Banner" />
+<div align="center">
+  <img width="450" src="https://assets9.lottiefiles.com/packages/lf20_tutvdkg0.json" />
+</div>
+
 </h1>
 
 <!-- Dynamic Multi-line Professional Intro -->
